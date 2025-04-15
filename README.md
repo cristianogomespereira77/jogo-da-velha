@@ -1,6 +1,6 @@
 # jogo da velha
  **jogo desenvolvido em java**
-
+**teste o codigo. Aceito sugestões de melhorias**
 package classes;
 
 import javax.swing.JOptionPane;
